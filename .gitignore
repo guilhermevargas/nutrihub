@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 /test/unit/coverage/
 .vscode/
-
+./web/node_modules
+./server/node_modules
 # Editor directories and files
 .idea
 .vscode
